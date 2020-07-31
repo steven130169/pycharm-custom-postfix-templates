@@ -1,0 +1,2 @@
+.ae : assertEqual
+	ANY   →   assertEquals($expr$,$END$)
